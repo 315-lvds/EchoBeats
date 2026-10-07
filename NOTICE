@@ -1,0 +1,20 @@
+灵音 · EchoBeats
+Copyright (c) 2026 EchoBeats Project
+Required Notice: Copyright (c) 2026 EchoBeats Project
+
+本软件以 **PolyForm Noncommercial License 1.0.0** 授权（全文见 `LICENSE`，
+中文说明见 `LICENSE-中文说明.md`；两者若有出入以 `LICENSE` 原文为准）。
+
+一句话：**非商业用途随你用（可以改、可以再分发）；商业用途未获授权。**
+- 商业用途 —— 销售 / 商业捆绑 / 营利性服务 / 以商业目的再分发等 ——
+  **需通过本仓库的 Issue 联系作者单独获得授权**；
+- 再分发时请带上 `LICENSE` 或
+  <https://polyformproject.org/licenses/noncommercial/1.0.0>，并带上上面那行 `Required Notice:`；
+- ⛔ 不得暗示原作者为你的版本背书；
+- ⚠️ 「灵音 · EchoBeats」的名称与图标**不随代码许可授权**（见 `LICENSE-中文说明.md` 第六节）。
+
+第三方组件**不受本声明约束**，适用其各自的许可证，详见 THIRD-PARTY-NOTICES.md。
+其中 libsndfile 与 soxr 为 LGPL-2.1+（动态链接、未修改）⇒ 你依 LGPL 享有的
+替换 / 反向工程该库的权利不受本声明影响。
+
+本软件按「现状」提供，不附带任何明示或默示的担保，使用风险自负。
